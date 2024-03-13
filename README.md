@@ -1,6 +1,6 @@
 # CCTA
 
-A combinational circuite that computes either the sum or the difference of its input vectors based on the value of the ctrl signal. 
+A combinational circuit that computes either the sum or the difference of its input vectors based on the value of the ctrl signal. 
 When rst is active, the output is reset to 0.
 
 ### Module Specification
